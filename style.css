@@ -1,0 +1,65 @@
+/**
+ * HW1 - Wireframe
+ **/
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+	background: #777;
+}
+
+#header {
+  padding: 20px;
+  margin-bottom: 20px;
+  background: #ebebeb;
+  height: 130px;
+  width: 960px;
+}
+
+#left {
+	height: 130px;
+	width: 495px;
+	background: #ebebeb;
+}
+
+#nav {
+	padding: 20px;
+  	margin-bottom: 20px;
+  	background: #ebebeb;
+  	width: 960px;
+}
+
+#right {
+}
+
+#full {
+	background: #ebebeb;
+	float: left;
+	height: 400px;
+	width: 495px;
+}
+
+#division {
+}
+
+aside {
+	padding: 20px;
+  	margin-bottom: 20px;
+	float: left;
+	background: #ebebeb;
+	text-align: center;
+	vertical-align: center;	
+	height: 130px;
+	width: 300px;
+}
+
+footer {
+	clear: both;
+  	padding: 20px;
+  	margin-bottom: 20px;
+  	background: #ebebeb;
+  	width: 960px;
+}
