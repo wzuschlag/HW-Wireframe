@@ -9,6 +9,8 @@
 
 body {
 	background: #777;
+	font-family: "arial"
+  	font-size: 18px;
 }
 
 #container {
@@ -33,9 +35,6 @@ body {
   	width: 100%;
 }
 
-#right {
-}
-
 #full {
 	background: #ebebeb;
 	float: left;
@@ -45,30 +44,31 @@ body {
 }
 
 #section{
-	padding-top: 50px;
+	padding-top: 40px;
 }
 article{
 	padding-top: 20px;
 	background-color: #777;
-	margin-top: 40px;
 	height: 200px;
-	margin: 20px 10px 10px 10px;
+	margin: 30px 10px 10px 10px;
+}
+
+.art{
+	color: white;
 }
 
 .hhh {
 	background-color: #ebebeb;
 	height: 50px;
-	margin-top: 30px;
-	margin-left: 20px;
-	margin-right: 20px;
+	padding-top: 20px;
+	margin: 30px 20px 0px 20px;
 }
 
 .p_div{
 	background-color: #ebebeb;
+	padding-top: 18px;
 	height: 50px;
-	margin-bottom: 10px;
-	margin-left: 20px;
-	margin-right: 20px;
+	margin: 20px 20px 10px 20px;
 }
 
 aside {
@@ -76,9 +76,7 @@ aside {
   	margin-bottom: 20px;
   	margin-left: 20px;
 	float: left;
-	background-color: #ebebeb;
-/*	text-align: center;
-	vertical-align: center;*/	
+	background-color: #ebebeb;	
 	height: 300px;
 	width: 445px;
 }
